@@ -8,8 +8,11 @@ This project presents an interactive Power BI dashboard to analyze movie sales d
 
 🎯 Objectives
 Analyze total movie revenue
+
 Identify top-performing movies and genres
+
 Compare ratings and revenue
+
 Track trends over time
 
 📊 Dataset
@@ -18,7 +21,9 @@ Movie Title
 Genre
 Revenue
 Rating
-Release Year
+Year
+Director 
+Actor
 
 🛠 Tools Used
 Power BI
