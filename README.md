@@ -1,70 +1,152 @@
-# Movie-Sales-Analysis-PowerBI
-Interactive Power BI dashboard analyzing movie sales, revenue trends, and audience insights
+# 🎬 Movie Sales Analysis Dashboard using Power BI
 
-🎬 Movie Sales Analysis (Power BI)
+## 📌 Project Overview
 
-📌 Overview
+This project presents an interactive and visually engaging Power BI dashboard designed to analyze movie sales performance, revenue trends, audience preferences, and industry insights. The dashboard enables users to explore movie performance across genres, years, ratings, and revenue metrics through dynamic visualizations and filters.
 
-This project presents an interactive Power BI dashboard to analyze movie sales data, focusing on revenue trends, audience preferences, and performance metrics.
+The project focuses on transforming raw movie data into actionable business insights for better decision-making and trend analysis in the entertainment industry.
 
-🎯 Objectives
+---
 
-Analyze total movie revenue
+# 🎯 Project Objectives
 
-Identify top-performing movies and genres
+✅ Analyze overall movie revenue performance
 
-Compare ratings and revenue
+✅ Identify top-performing movies and genres
 
-Track trends over time
+✅ Compare movie ratings with revenue generation
 
-📊 Dataset
+✅ Track year-wise revenue and audience trends
 
-Movie dataset including:
+✅ Discover patterns in movie success factors
 
-Movie Title
+✅ Build an interactive dashboard for data-driven storytelling
 
-Genre
+---
 
-Revenue
+# 📂 Dataset Information
 
-Rating
+### Dataset Includes:
 
-Year
+| Feature      | Description               |
+| ------------ | ------------------------- |
+| Movie Title  | Name of the movie         |
+| Genre        | Movie category/genre      |
+| Revenue      | Total revenue generated   |
+| Rating       | Audience or critic rating |
+| Release Year | Year of release           |
+| Director     | Movie director            |
+| Actor        | Lead actor/actress        |
 
-Director 
+---
 
-Actor
+# 🛠️ Tools & Technologies Used
 
-🛠 Tools Used
+| Tool        | Purpose                        |
+| ----------- | ------------------------------ |
+| Power BI    | Dashboard Development          |
+| Power Query | Data Cleaning & Transformation |
+| DAX         | Calculated Measures & KPIs     |
+| Excel / CSV | Data Source                    |
 
-Power BI
+---
 
-Power Query
+# 🔄 Project Workflow
 
-DAX
+```python id="e3fqyz"
+1. Data Collection
+2. Data Cleaning & Transformation
+3. Data Modeling
+4. DAX Measure Creation
+5. Dashboard Design
+6. Data Visualization
+7. Insights Generation
+```
 
-📊 Dashboard Features
+---
 
-Revenue analysis dashboard
+# 📊 Dashboard Features
 
-Genre-wise performance
+🎥 Movie Revenue Analysis Dashboard
 
-Ratings vs Revenue comparison
+📈 Year-wise Revenue Trend Analysis
 
-Year-wise trend analysis
+⭐ Ratings vs Revenue Comparison
 
-📈 Key Insights
+🎭 Genre-wise Performance Breakdown
 
-Certain genres generate higher revenue
+🏆 Top Movies by Revenue
 
-High-rated movies often perform better
+📊 Interactive Filters & Slicers
 
-Revenue trends vary across years
+📅 Time-based Trend Analysis
+
+---
+
+# 📈 Key Insights
+
+🔹 Certain movie genres consistently generate higher revenue than others
+
+🔹 High-rated movies often achieve stronger box office performance
+
+🔹 Revenue trends fluctuate significantly across different years
+
+🔹 Popular actors and directors contribute to higher audience engagement
+
+🔹 Genre popularity changes over time based on audience preferences
+
+---
+
+# 📊 KPIs Included
+
+✅ Total Revenue
+
+✅ Average Movie Rating
+
+✅ Top Performing Genre
+
+✅ Highest Revenue Movie
+
+✅ Yearly Revenue Growth
+
+---
+
+# ✅ Conclusion
+
+This Power BI dashboard demonstrates how data visualization and analytics can uncover valuable insights in the movie industry. The project helps analyze audience behavior, genre popularity, and revenue performance, enabling data-driven decision-making for entertainment businesses and analysts.
+
+---
+
+# 🚀 Future Scope
+
+✅ Add Predictive Revenue Forecasting
+
+✅ Integrate Real-Time Movie Data APIs
+
+✅ Perform Audience Sentiment Analysis
+
+✅ Build Advanced Recommendation Insights
+
+✅ Create Mobile-Friendly Dashboard Version
+
+---
+
+# 📷 Dashboard Preview
+
+<img width="1154" height="667" alt="Screenshot 2026-03-28 163126" src="https://github.com/user-attachments/assets/4f0e0db1-4efb-4030-9f49-b05a400106a9" />
 
 
+---
 
-✅ Conclusion
+# 👨‍💻 Author
 
-This dashboard helps in understanding movie industry trends and supports data-driven decision making.
+## Shivranjani Daud
 
+🔗 LinkedIn:
+[www.linkedin.com/in/shivranjani-daud-ab4336238](http://www.linkedin.com/in/shivranjani-daud-ab4336238)
 
+💻 GitHub:
+https://github.com/shivdaud2000-del
+---
+
+⭐ If you found this project helpful, don’t forget to give it a star!
